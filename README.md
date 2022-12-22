@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://www.codewars.com/users/alligator2d/badges/large
 <!--
 **alligator2d/alligator2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
