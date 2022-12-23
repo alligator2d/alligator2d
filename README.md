@@ -1,5 +1,7 @@
-### Hi there 👋
-https://www.codewars.com/users/alligator2d/badges/large
+### Hi there, I'm Oleg  👋
+
+
+[![codewars](https://www.codewars.com/users/alligator2d/badges/large)](https://www.codewars.com/users/alligator2d) 
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -27,3 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alligator2d&layout=compact)](https://github.com/alligator2d/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
