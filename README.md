@@ -3,9 +3,18 @@
 <b>Я занимаюсь frontend-разработкой.</b>
 
 #### Связаться со мной:
+<a href="mailto:alligator2d@gmail.com">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg"  title="mail" alt="mail" width="30"/>
+</a>
 <a href="https://t.me/alligator2d">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg"  title="telegram" alt="telegram" width="30"/>
 </a>
+<a href="https://vk.com/id1896797">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg"  title="vk" alt="vk" width="30"/>
+</a>
+
+
+
 
 
 ### Чем я пользуюсь:
@@ -25,22 +34,4 @@
 [![codewars](https://www.codewars.com/users/alligator2d/badges/large)](https://www.codewars.com/users/alligator2d) 
 
 
-
-
-<!--
-**alligator2d/alligator2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on new project 
-- 🌱 I’m currently learning Java Script
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alligator2d&layout=compact&theme=dark)](https://github.com/alligator2d/github-readme-stats)
 
